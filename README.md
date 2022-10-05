@@ -1,5 +1,5 @@
 # Heart-Diesease-Prediction
-Heart Diesease Prediction
+
 Technologies used Python, Machine-Learning, Pandas, Numpy, Matplotlib,Seaborne
 Jupyter Notebook
 
